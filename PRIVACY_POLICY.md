@@ -1,8 +1,10 @@
 # Privacy Policy
 
-**Last updated: October 19, 2025**
+**App Name:** Евро ресто калкулатор (Euro Resto Calculator)
+**Developer:** Aydzhan Ahmedov
+**Last updated:** November 15, 2025\*\*
 
-This Privacy Policy describes how the "Currency Exchange Calculator" application ("we", "us", or "our") collects, uses, and protects information that may be associated with you when using our mobile application.
+This Privacy Policy describes how Aydzhan Ahmedov ("we", "us", or "our"), the developer of the "Евро ресто калкулатор" (Euro Resto Calculator) application, collects, uses, and protects information that may be associated with you when using our mobile application.
 
 ## 1. Information We Collect
 
@@ -58,6 +60,7 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 
 If you have questions about this Privacy Policy or our privacy practices, please contact us at:
 
+**Developer:** Aydzhan Ahmedov
 **Email:** darkvigoole@gmail.com
 
 ## 8. Consent
